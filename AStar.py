@@ -1,8 +1,9 @@
 """
 Hii Welcome to my A Star Path Visualizer Algorithm
-It is made with the help help of python module pygame.
+It is made with the help of python module pygame.
 
 You can mark the initial destination , final destination and barriers using left mouse button.
+You can remove the various marks using right mouse button.
 You can generate random barriers using 'r' key on the keyboard.
 You can reset everything using 'c' key on the keyboard.
 And to start the visualization hit the space button.
